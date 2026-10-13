@@ -1,0 +1,15 @@
+/* styles.css */
+:root {
+--baltic-blue: #33658aff;
+--powder-blue: #96adc8ff;
+}
+
+h2 { 
+color: var(--baltic-blue);
+  font-family: "Ubuntu", serif;
+}
+
+body {
+color: var(--powder-blue);
+  font-family: "Quicksand", serif;
+}
